@@ -16,7 +16,7 @@ Based on the data analysis, the following critical insights were identified:
 
 **Financial Impact:** Late deliveries and cancellations are major drivers of negative profit (loss), as seen in the profit distribution analysis.
 
-https://github.com/swetasainiac-24/Supply-Chain-Risk-Profitability-Analysis/issues/1#issue-3774390043
+https://github.com/swetasainiac-24/Supply-Chain-Risk-Profitability-Analysis/issues/1#issue-3774424483
 
 
 **Tech Stack & Skills**
